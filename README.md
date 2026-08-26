@@ -29,4 +29,4 @@ You can actually get inspired from my project and try it yourself. This is compl
 Stardance Project Link: <a href="https://stardance.hackclub.com/projects/54091"><b>ImtCard</b></a>
 
 
-Made by Imtiaz with the help of <a href="hackclub.com"><b>Hack Club</b></a>.
+Made by **Imtiaz** with the help of <a href="hackclub.com"><b>Hack Club</b></a>.
