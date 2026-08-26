@@ -27,6 +27,7 @@ I made this as a reference/example card for <a href="https://jams.hackclub.com/j
 You can actually get inspired from my project and try it yourself. This is completely made on EasyEDA and that is the reason .kicad_sch file is missing from pcb folder, but gerber zip file is present, so that won't be a problem. You can look at some other color of the same pcb at /assets/color inspo/ and look at the used assets on /assets/used assets/. 
 
 Stardance Project Link: <a href="https://stardance.hackclub.com/projects/54091"><b>ImtCard</b></a>
+
 Stardance Account: <a href="https://stardance.hackclub.com/@Imtiaz"><b>Imtiaz</b></a>
 
-Made by Imtiaz with the help of<a href="hackclub.com"><b>Hack Club</b></a>.
+Made by Imtiaz with the help of <a href="hackclub.com"><b>Hack Club</b></a>.
