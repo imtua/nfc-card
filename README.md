@@ -15,9 +15,18 @@ I made this as a reference/example card for <a href="https://jams.hackclub.com/j
 ## Schematics:
 ![schematics of the card](assets/readme/1%20schematics%20of%20card.png)
 
-## PCB
+## PCB:
 ![pcb](assets/readme/4%20pcb%20look.png)
 
-## 3d Overview
+## 3d Overview:
 ![front](assets/readme/2%203d%20final%20black%20front.png)
 ![back](assets/readme/4%20pcb%20look.png)
+
+## Conclusion:
+
+You can actually get inspired from my project and try it yourself. This is completely made on EasyEDA and that is the reason .kicad_sch file is missing from pcb folder, but gerber zip file is present, so that won't be a problem. You can look at some other color of the same pcb at /assets/color inspo/ and look at the used assets on /assets/used assets/. 
+
+Stardance Project Link: <a href="https://stardance.hackclub.com/projects/54091"><b>ImtCard</b></a>
+Stardance Account: <a href="https://stardance.hackclub.com/@Imtiaz"><b>Imtiaz</b></a>
+
+Made by Imtiaz with the help of<a href="hackclub.com"><b>Hack Club</b></a>.
